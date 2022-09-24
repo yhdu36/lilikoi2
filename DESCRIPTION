@@ -15,7 +15,7 @@ Depends: R (>= 3.5.0)
 Imports: car, caret, dplyr, gbm, ggplot2, glmnet, h2o, impute,
         infotheo, limma, M3C, Metrics, MLmetrics, parallel, princurve,
         pathview, plyr, preprocessCore, pROC, RCy3, reticulate,
-        reshape, RWeka, scales, stats, stringr, survminer, survival
+        reshape, RWeka, scales, stats, stringr, survival
 License: GPL-2
 Encoding: UTF-8
 RoxygenNote: 7.1.1
